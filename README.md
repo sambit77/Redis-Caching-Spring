@@ -1,6 +1,6 @@
 # Redis-Caching-Spring
 
-## About Application: IF user makes  back to back api call within 5 seconds for a particular user Id the response will not be queried from database rather fromcache <br>
+## About Application: IF user makes  back to back api call within 5 seconds for a particular user Id the response will not be queried from database rather from cache memory <br>
 
 ### Step-1 Install and run Redis on your system (OSX) <br>
 
